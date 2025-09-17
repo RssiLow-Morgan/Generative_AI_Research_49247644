@@ -1,5 +1,0 @@
-Project Logbook
-===============
-2025-09-17: Repository scaffolded; added folder structure and baseline docs.
-2025-09-17: Defined naming conventions and contribution workflow.
-(Developers: add your dated entries here on separate lines; do NOT edit the same line when demonstrating 'no-conflict' PRs.)

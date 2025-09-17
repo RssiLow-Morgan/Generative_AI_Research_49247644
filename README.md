@@ -1,2 +1,3 @@
-# Generative_AI_Research_49247644
-This is the tutorial project for REIT6811 course, owned by Mengen Ren, Student ID: 49247644
+# AI_Research
+
+put some stuff - all data for the project
